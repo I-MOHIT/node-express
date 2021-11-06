@@ -9,7 +9,8 @@
   },
   "author": "Mohit Chugh",
   "license": "ISC",
-  "dependencies":{
-    "express":"^4.16.3"
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
   }
 }
